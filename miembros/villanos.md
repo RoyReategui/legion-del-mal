@@ -3,3 +3,5 @@
 2. Joker
 3. Thanos
 4. Magneto
+5. Green Goblin
+6. Doctor Doom
