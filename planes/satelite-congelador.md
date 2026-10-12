@@ -85,3 +85,7 @@ Un solo disparo del rayo criogénico reduce la temperatura de una ciudad de 1 mi
 - _"Es la misión más ambiciosa de la Legión. Si funciona, ganamos. Si falla, necesitaremos un nuevo planeta."_ — Lex Luthor
 - _"Propongo que la demostración sea sobre Themyscira. Quiero ver la cara de Wonder Woman."_ — Magneto
 - _"Childish. Pero aprobado."_ — Brainiac
+
+## Recursos adicionales
+- **Base Lunar** — Ubicación secreta en la cara oculta de la Luna. Ver `guaridas/base-lunar.md`.
+- **Proyecto Krypton** — Investigación en curso para clonar a Superman. Ver `planes/proyecto-krypton.md`.
