@@ -3,6 +3,15 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-11-003545?logo=mariadb&logoColor=white)
 
+
+
+![Último release](https://img.shields.io/github/v/release-v0.0.2/RoyReategui/legion-del-mal)
+![Último tag](https://img.shields.io/github/v/tag/RoyReategui/legion-del-mal)
+![Estrellas](https://img.shields.io/github/stars/RoyReategui/legion-del-mal)
+![Último commit](https://img.shields.io/github/last-commit/RoyReategui/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/RoyReategui/legion-del-mal)
+![Issues](https://img.shields.io/github/issues/RoyReategui/legion-del-mal)
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
