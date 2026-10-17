@@ -1,3 +1,4 @@
+![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-green)
 ![Estado](https://img.shields.io/badge/estado-estable-green)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
@@ -5,7 +6,7 @@
 
 
 
-![Último release](https://img.shields.io/github/v/release-v0.0.2/RoyReategui/legion-del-mal)
+![Último release](https://img.shields.io/github/v/release/RoyReategui/legion-del-mal)
 ![Último tag](https://img.shields.io/github/v/tag/RoyReategui/legion-del-mal)
 ![Estrellas](https://img.shields.io/github/stars/RoyReategui/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/RoyReategui/legion-del-mal)
