@@ -6,3 +6,4 @@ Implantar un gobierno títere en Estados Unidos es una estrategia que busca cont
 2. **Controlar la Casa Blanca:** Asegurar que el presidente y su gabinete estén alineados con los objetivos de la organización, permitiendo la implementación de políticas favorables.
 3. **Manipular el sistema judicial:** Colocar jueces y fiscales que puedan favorecer los intereses de la organización, asegurando que las decisiones legales respalden sus acciones y protejan a sus miembros.
 4. **Influir en los medios de comunicación:** Controlar o manipular los principales medios de comunicación para moldear la opinión pública y garantizar que la narrativa favorezca a la organización, minimizando la exposición de sus actividades y promoviendo la aceptación de sus políticas y acciones.
+5. **Establecer políticas económicas favorables:** Implementar medidas económicas que beneficien a la organización y sus aliados, asegurando un flujo constante de recursos y apoyo financiero.
