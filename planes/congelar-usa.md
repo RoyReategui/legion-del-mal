@@ -8,3 +8,8 @@ La idea de congelar Estados Unidos surgió durante una reunión del Consejo de V
 4. **Congelar el suministro de agua y alimentos:** Interrumpir la distribución de recursos esenciales para aumentar la desesperación de la población.
 5. **Congelar la economía:** Causar un colapso financiero temporal mediante la interrupción de transacciones electrónicas y sistemas bancarios.
 6. **Congelar la respuesta de emergencia:** Impedir que los servicios de emergencia actúen de manera efectiva, aumentando el caos y la confusión.
+
+### Consejos
+- **Coordinación:** Asegurarse de que todas las fases de la operación estén sincronizadas para maximizar el impacto.
+- **Discreción:** Evitar que los héroes detecten la operación antes de que se lleve a cabo, utilizando distracciones y operaciones encubiertas.
+- **Recursos:** Contar con suficientes recursos y personal para mantener la operación durante el tiempo necesario para lograr los objetivos.
